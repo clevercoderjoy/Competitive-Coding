@@ -4,3 +4,4 @@ CC: CodeChef
 HR: HackerRank
 LC: LeetCode
 GFG: GeeksforGeeks
+CF: CodeForces
