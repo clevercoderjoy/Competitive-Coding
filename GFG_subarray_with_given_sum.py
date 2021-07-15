@@ -36,7 +36,6 @@
 # 1 <= Ai <= 1010
 
 # concept of sliding window is used here
-
 def subArraySum(arr, size, x): 
         #Your code here
         start = 0
